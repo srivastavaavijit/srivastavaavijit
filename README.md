@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avijit Srivastava</h1>
-<h3 align="center">A budding data scientist enthusiastic about exploring the endless possibilities hidden within datasets. With a keen eye for detail and a thirst for learning, I have honed my expertise in Python, R, SQL, and various data manipulation tools during my academic journey. I am eager to embark on a professional voyage where I can collaborate with diverse teams and transform raw data into actionable insights that drive meaningful impact.</h3>
+<h3 align="center">A budding data analyst and software engineer enthusiastic about exploring the endless possibilities hidden within datasets. With a keen eye for detail and a thirst for learning, I have honed my expertise in Python, R, SQL, and various data manipulation tools during my academic journey. I am eager to embark on a professional voyage where I can collaborate with diverse teams and transform raw data into actionable insights that drive meaningful impact.</h3>
 <img align='right' alt='coding' width='400' src='https://miro.medium.com/v2/resize:fit:1024/1*COb_WY6gf4O2JUMqyvh65w.png'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivastavaavijit&label=Profile%20views&color=0e75b6&style=flat" alt="srivastavaavijit" /> </p>
