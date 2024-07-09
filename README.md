@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avijit Srivastava</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
+<img align='right' alt='coding' width='400' src='https://miro.medium.com/v2/resize:fit:1024/1*COb_WY6gf4O2JUMqyvh65w.png'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivastavaavijit&label=Profile%20views&color=0e75b6&style=flat" alt="srivastavaavijit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivastavaavijit" alt="srivastavaavijit" /></a> </p>
