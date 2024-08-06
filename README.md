@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivastavaavijit" alt="srivastavaavijit" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack And Blockchain**
+- 🔭 I’m currently working on ** Backend Development And Blockchain**
 
 - 💬 Ask me about **Web Development, Blockchain, Machine Learning, Generative AI, Data Analysis,Augmented Reality, Go**
 
