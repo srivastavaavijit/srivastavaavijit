@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:  ** Backend Development Using Java And Data Engineering**<br><br>💬 Ask me about : Web Development, Machine Learning, Generative AI, Data Analysis, Data Engineering and Go<br><br>📫 How to reach me: avijitsrivastava20@gmail.com<br><br>⚡ Fun fact: I think I am a detective.
+🔭 I’m currently working on:  ** Backend Development Using Node.js And Blockchain**<br><br>💬 Ask me about : Web Development, Generative AI, System Design, Node.js and Go<br><br>📫 How to reach me: avijitsrivastava20@gmail.com<br><br>⚡ Fun fact: I think I am a detective.
 
 
 ## 🌐 Socials:
